@@ -853,7 +853,7 @@ Got an idea, a question, or a project that needs another pair of hands? Feel fre
 
 <br/>
 
-<a href="https://instagram.com/USERNAME_IG"><img src="https://cdn.simpleicons.org/instagram/8B949E" width="18" height="18" alt="Instagram"/> &nbsp;Instagram</a>
+<a href="https://instagram.com/n1kzx.z"><img src="https://cdn.simpleicons.org/instagram/8B949E" width="18" height="18" alt="Instagram"/> &nbsp;Instagram</a>
 
 <br/>
 
