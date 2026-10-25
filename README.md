@@ -1,31 +1,57 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Nicho - Developer dan Electronics Enthusiast" width="100%"/>
+<img src="assets/hero.svg" alt="Hi, I'm Nicho - Developer dan Electronics Enthusiast" width="100%"/>
+
+<img src="assets/typing.svg" alt="Membangun hal berguna dengan kode dan rangkaian | Flutter, Arduino, Python, C++ | code, build, improve, repeat" width="760"/>
+
+<br/>
+
+<a href="#perkenalan"><img src="assets/nav/perkenalan.svg" alt="Perkenalan" height="32"/></a>
+<a href="#introduction"><img src="assets/nav/introduction.svg" alt="Introduction" height="32"/></a>
+<a href="#sekilas"><img src="assets/nav/sekilas.svg" alt="Sekilas" height="32"/></a>
+<a href="#terminal"><img src="assets/nav/terminal.svg" alt="Terminal" height="32"/></a>
+<a href="#latar-akademik"><img src="assets/nav/latar-akademik.svg" alt="Latar Akademik" height="32"/></a>
+<a href="#cara-kerja"><img src="assets/nav/cara-kerja.svg" alt="Cara Kerja" height="32"/></a>
+<br/>
+<a href="#bahasa-pemrograman"><img src="assets/nav/bahasa-pemrograman.svg" alt="Bahasa" height="32"/></a>
+<a href="#framework-dan-tools"><img src="assets/nav/framework-dan-tools.svg" alt="Tools" height="32"/></a>
+<a href="#web-dan-aplikasi"><img src="assets/nav/web-dan-aplikasi.svg" alt="Web dan Aplikasi" height="32"/></a>
+<a href="#elektronika-dan-iot"><img src="assets/nav/elektronika-dan-iot.svg" alt="Elektronika dan IoT" height="32"/></a>
+<a href="#komponen-elektronika"><img src="assets/nav/komponen-elektronika.svg" alt="Komponen" height="32"/></a>
+<br/>
+<a href="#rumus-dasar"><img src="assets/nav/rumus-dasar.svg" alt="Rumus" height="32"/></a>
+<a href="#logika-digital"><img src="assets/nav/logika-digital.svg" alt="Logika Digital" height="32"/></a>
+<a href="#protokol-komunikasi"><img src="assets/nav/protokol-komunikasi.svg" alt="Protokol" height="32"/></a>
+<a href="#arduino-uno"><img src="assets/nav/arduino-uno.svg" alt="Arduino Uno" height="32"/></a>
+<a href="#peralatan-lab"><img src="assets/nav/peralatan-lab.svg" alt="Peralatan Lab" height="32"/></a>
+<a href="#code-showcase"><img src="assets/nav/code-showcase.svg" alt="Code" height="32"/></a>
+<br/>
+<a href="#pipeline-proyek"><img src="assets/nav/pipeline-proyek.svg" alt="Proyek" height="32"/></a>
+<a href="#dokumentasi-proyek"><img src="assets/nav/dokumentasi-proyek.svg" alt="Dokumentasi" height="32"/></a>
+<a href="#game-lab"><img src="assets/nav/game-lab.svg" alt="Game Lab" height="32"/></a>
+<a href="#alur-kerja"><img src="assets/nav/alur-kerja.svg" alt="Alur Kerja" height="32"/></a>
+<a href="#peta-belajar"><img src="assets/nav/peta-belajar.svg" alt="Peta Belajar" height="32"/></a>
+<a href="#tanya-saya"><img src="assets/nav/tanya-saya.svg" alt="Tanya Saya" height="32"/></a>
+<a href="#statistik-github"><img src="assets/nav/statistik-github.svg" alt="Statistik" height="32"/></a>
+<a href="#kontak"><img src="assets/nav/kontak.svg" alt="Kontak" height="32"/></a>
+
+<br/>
+
+<img src="assets/idcard.svg" alt="Kartu pengenal developer: Nicho, mahasiswa Elektronika" width="760"/>
 
 <br/><br/>
 
-<a href="#perkenalan">Perkenalan</a> &nbsp;/&nbsp; <a href="#introduction">Introduction</a> &nbsp;/&nbsp; <a href="#sekilas">Sekilas</a> &nbsp;/&nbsp; <a href="#terminal">Terminal</a> &nbsp;/&nbsp; <a href="#latar-akademik">Latar Akademik</a> &nbsp;/&nbsp; <a href="#cara-kerja">Cara Kerja</a>
-
-<a href="#bahasa-pemrograman">Bahasa</a> &nbsp;/&nbsp; <a href="#framework-dan-tools">Tools</a> &nbsp;/&nbsp; <a href="#web-dan-aplikasi">Web dan Aplikasi</a> &nbsp;/&nbsp; <a href="#elektronika-dan-iot">Elektronika dan IoT</a> &nbsp;/&nbsp; <a href="#komponen-elektronika">Komponen</a>
-
-<a href="#rumus-dasar">Rumus</a> &nbsp;/&nbsp; <a href="#logika-digital">Logika Digital</a> &nbsp;/&nbsp; <a href="#protokol-komunikasi">Protokol</a> &nbsp;/&nbsp; <a href="#arduino-uno">Arduino Uno</a> &nbsp;/&nbsp; <a href="#peralatan-lab">Peralatan Lab</a> &nbsp;/&nbsp; <a href="#code-showcase">Code</a>
-
-<a href="#pipeline-proyek">Proyek</a> &nbsp;/&nbsp; <a href="#dokumentasi-proyek">Dokumentasi</a> &nbsp;/&nbsp; <a href="#game-lab">Game Lab</a> &nbsp;/&nbsp; <a href="#alur-kerja">Alur Kerja</a> &nbsp;/&nbsp; <a href="#peta-belajar">Peta Belajar</a> &nbsp;/&nbsp; <a href="#tanya-saya">Tanya Saya</a> &nbsp;/&nbsp; <a href="#statistik-github">Statistik</a> &nbsp;/&nbsp; <a href="#kontak">Kontak</a>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/idcard-dark.svg">
-  <img alt="Kartu pengenal developer: Nicho, mahasiswa Elektronika" src="assets/idcard-light.svg" width="700">
-</picture>
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
 </div>
 
-<br/>
+<div align="center">
 
-<h2 id="perkenalan">Perkenalan</h2>
+<a name="perkenalan"></a>
+<img src="assets/sections/perkenalan.svg" alt="Perkenalan" width="100%"/>
 
-<sub>Bahasa Indonesia</sub>
+</div>
+
 
 Halo, aku **Nicho**, mahasiswa jurusan Elektronika yang juga senang menulis kode. Bagiku, dua bidang ini saling melengkapi: perangkat lunak memberi "otak" pada rangkaian, sedangkan rangkaian membuat perangkat lunak bisa berinteraksi dengan dunia nyata.
 
@@ -33,11 +59,13 @@ Aku tidak mengejar kerumitan hanya demi terlihat hebat. Prinsipku sederhana: bua
 
 Saat ini aku sedang memperkuat dasar pemrograman C dan C++, mendalami Flutter dan Dart, serta mengubah ide-ide menjadi proyek yang benar-benar berguna. Jika kamu tertarik pada perangkat lunak, perangkat keras, atau perpaduan keduanya, aku senang berdiskusi dan berkolaborasi.
 
-<br/>
+<div align="center">
 
-<h2 id="introduction">Introduction</h2>
+<a name="introduction"></a>
+<img src="assets/sections/introduction.svg" alt="Introduction" width="100%"/>
 
-<sub>English</sub>
+</div>
+
 
 Hi, I'm **Nicho**, an Electronics student who also loves writing code. To me the two fields complete each other: software gives a circuit its brain, and circuits let software reach into the physical world.
 
@@ -45,22 +73,31 @@ I don't chase complexity just to look impressive. My approach is simple: build a
 
 Right now I'm strengthening my C and C++ fundamentals, going deeper into Flutter and Dart, and turning ideas into projects that are genuinely useful. If you're into software, hardware, or the space where they meet, I'd love to talk and collaborate.
 
-<br/>
-
----
+<div align="center">
 
 <br/>
 
-<h2 id="sekilas">Sekilas</h2>
+<img src="assets/banner.png" alt="Nicho: Developer dan Electronics Enthusiast. Code, build, improve, repeat." width="100%"/>
 
-<sub>At a glance</sub>
+</div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/bento-dark.svg">
-  <img alt="Ringkasan profil: peran, fokus, sedang dipelajari, siklus kerja, terbuka untuk" src="assets/bento-light.svg" width="100%">
-</picture>
+<img src="assets/wave.svg" width="100%" alt=""/>
+
+</div>
+
+<div align="center">
+
+<a name="sekilas"></a>
+<img src="assets/sections/sekilas.svg" alt="Sekilas" width="100%"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="assets/bento.svg" alt="Ringkasan profil: peran, fokus, sedang didalami, siklus kerja, terbuka untuk, moto" width="100%"/>
 
 </div>
 
@@ -75,19 +112,23 @@ Right now I'm strengthening my C and C++ fundamentals, going deeper into Flutter
 | **Terbuka untuk / Open to** | Kolaborasi, *open source*, diskusi teknis | Collaboration, open source, technical talk |
 | **Moto / Motto** | Terus belajar, terus membangun | Keep learning, keep building |
 
-<br/>
+<div align="center">
 
----
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
-<br/>
-
-<h2 id="terminal">Terminal</h2>
-
-<sub>Dua tampilan terminal ringkas tentang aku</sub>
+</div>
 
 <div align="center">
 
-<img src="assets/terminal-boot.svg" alt="Terminal: whoami" width="100%"/>
+<a name="terminal"></a>
+<img src="assets/sections/terminal.svg" alt="Terminal" width="100%"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="assets/terminal-boot.svg" alt="Terminal: whoami, cat role.txt, ls ~/focus, echo $STACK, ./loop.sh" width="100%"/>
 
 <br/><br/>
 
@@ -109,15 +150,19 @@ const nicho: Developer = {
 };
 ```
 
-<br/>
+<div align="center">
 
----
+<img src="assets/wave.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="latar-akademik">Latar Akademik</h2>
+<div align="center">
 
-<sub>Academic background: Electronics</sub>
+<a name="latar-akademik"></a>
+<img src="assets/sections/latar-akademik.svg" alt="Latar Akademik" width="100%"/>
+
+</div>
+
 
 Bidang kajian umum di jurusan Elektronika dan kaitannya dengan proyek yang aku kerjakan. Nama dan urutan mata kuliah dapat berbeda di setiap kampus.
 
@@ -132,15 +177,19 @@ Bidang kajian umum di jurusan Elektronika dan kaitannya dengan proyek yang aku k
 | **Sistem Tertanam** | *Firmware*, protokol komunikasi, manajemen daya | Proyek IoT |
 | **Pemrograman** | C, C++, Java, Python, struktur data | Perangkat lunak yang menjalankan perangkat |
 
-<br/>
+<div align="center">
 
----
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="cara-kerja">Cara Kerja</h2>
+<div align="center">
 
-<sub>How I work</sub>
+<a name="cara-kerja"></a>
+<img src="assets/sections/cara-kerja.svg" alt="Cara Kerja" width="100%"/>
+
+</div>
+
 
 | Prinsip | Penjelasan | In practice |
 | :--- | :--- | :--- |
@@ -150,22 +199,23 @@ Bidang kajian umum di jurusan Elektronika dan kaitannya dengan proyek yang aku k
 | **Uji di dunia nyata** | Rangkaian yang berhasil di simulasi belum tentu berhasil di meja kerja. | A circuit that works on paper still has to survive the bench. |
 | **Catat yang dipelajari** | Setiap proyek meninggalkan catatan, bukan hanya hasil akhir. | Every project leaves notes behind, not just a result. |
 
-<br/>
+<div align="center">
 
----
+<img src="assets/wave.svg" width="100%" alt=""/>
 
-<br/>
-
-<h2 id="bahasa-pemrograman">Bahasa Pemrograman</h2>
-
-<sub>Programming languages</sub>
+</div>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-  <img alt="Bahasa pemrograman: Dart, Java, C++, C, JavaScript, Python, HTML dan CSS, SQL" src="assets/languages-light.svg" width="100%">
-</picture>
+<a name="bahasa-pemrograman"></a>
+<img src="assets/sections/bahasa-pemrograman.svg" alt="Bahasa Pemrograman" width="100%"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="assets/stack-languages.svg" alt="Bahasa pemrograman: Dart, Java, C++, C, JavaScript, Python, HTML5, CSS3, SQL" width="100%"/>
 
 </div>
 
@@ -173,31 +223,32 @@ Bidang kajian umum di jurusan Elektronika dan kaitannya dengan proyek yang aku k
 
 | | Bahasa | Karakter | Aku gunakan untuk |
 | :---: | :--- | :--- | :--- |
-| <img src="https://cdn.simpleicons.org/dart/8B949E" width="18" height="18" alt="Dart"/> | **Dart** | Berorientasi objek, terkompilasi | Aplikasi mobile dan desktop dengan Flutter |
-| <img src="https://cdn.simpleicons.org/openjdk/8B949E" width="18" height="18" alt="Java"/> | **Java** | Berorientasi objek, bertipe statis | Logika backend, aplikasi desktop, latihan OOP |
-| <img src="https://cdn.simpleicons.org/cplusplus/8B949E" width="18" height="18" alt="C++"/> | **C++** | Multi-paradigma, terkompilasi | Program berperforma tinggi, game, *embedded* |
-| <img src="https://cdn.simpleicons.org/c/8B949E" width="18" height="18" alt="C"/> | **C** | Prosedural, tingkat rendah | Mikrokontroler dan akses langsung ke perangkat keras |
-| <img src="https://cdn.simpleicons.org/javascript/8B949E" width="18" height="18" alt="JavaScript"/> | **JavaScript** | Dinamis, berbasis *event* | Interaksi web dan logika sisi klien |
-| <img src="https://cdn.simpleicons.org/python/8B949E" width="18" height="18" alt="Python"/> | **Python** | Dinamis, serbaguna | Otomasi, skrip, dan prototipe cepat |
-| <img src="https://cdn.simpleicons.org/html5/8B949E" width="18" height="18" alt="HTML"/> | **HTML dan CSS** | *Markup* dan *styling* | Struktur dan tampilan halaman web |
-| <img src="https://cdn.simpleicons.org/mysql/8B949E" width="18" height="18" alt="MySQL"/> | **SQL** | Deklaratif | Menyimpan dan mengolah data |
-
-<br/>
-
----
-
-<br/>
-
-<h2 id="framework-dan-tools">Framework dan Tools</h2>
-
-<sub>Frameworks and tools</sub>
+| <img src="assets/icons/dart.svg" width="24" height="24" alt="Dart"/> | **Dart** | Berorientasi objek, terkompilasi | Aplikasi mobile dan desktop dengan Flutter |
+| <img src="assets/icons/java.svg" width="24" height="24" alt="Java"/> | **Java** | Berorientasi objek, bertipe statis | Logika backend, aplikasi desktop, latihan OOP |
+| <img src="assets/icons/cpp.svg" width="24" height="24" alt="C++"/> | **C++** | Multi-paradigma, terkompilasi | Program berperforma tinggi, game, *embedded* |
+| <img src="assets/icons/c.svg" width="24" height="24" alt="C"/> | **C** | Prosedural, tingkat rendah | Mikrokontroler dan akses langsung ke perangkat keras |
+| <img src="assets/icons/js.svg" width="24" height="24" alt="JavaScript"/> | **JavaScript** | Dinamis, berbasis *event* | Interaksi web dan logika sisi klien |
+| <img src="assets/icons/python.svg" width="24" height="24" alt="Python"/> | **Python** | Dinamis, serbaguna | Otomasi, skrip, dan prototipe cepat |
+| <img src="assets/icons/html.svg" width="24" height="24" alt="HTML5"/> <img src="assets/icons/css.svg" width="24" height="24" alt="CSS3"/> | **HTML dan CSS** | *Markup* dan *styling* | Struktur dan tampilan halaman web |
+| <img src="assets/icons/mysql.svg" width="24" height="24" alt="MySQL"/> | **SQL** | Deklaratif | Menyimpan dan mengolah data |
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
-  <img alt="Framework dan tools: Flutter, Arduino, MySQL, Git, GitHub" src="assets/tools-light.svg" width="100%">
-</picture>
+<img src="assets/circuit.svg" width="100%" alt=""/>
+
+</div>
+
+<div align="center">
+
+<a name="framework-dan-tools"></a>
+<img src="assets/sections/framework-dan-tools.svg" alt="Framework dan Tools" width="100%"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="assets/stack-tools.svg" alt="Framework dan tools: Flutter, Arduino, MySQL, Git, GitHub" width="100%"/>
 
 </div>
 
@@ -211,44 +262,49 @@ git commit -m "feat: tambah fitur baru"
 git push -u origin feature/nama-fitur
 ```
 
-<br/>
+<div align="center">
 
----
+<img src="assets/wave.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="web-dan-aplikasi">Web dan Aplikasi</h2>
+<div align="center">
 
-<sub>Web and apps</sub>
+<a name="web-dan-aplikasi"></a>
+<img src="assets/sections/web-dan-aplikasi.svg" alt="Web dan Aplikasi" width="100%"/>
+
+</div>
+
 
 Sisi perangkat lunak: dari tampilan yang dilihat pengguna sampai logika yang bekerja di belakangnya.
 
 | Lapisan | Wilayah yang dieksplorasi | Teknologi |
 | :--- | :--- | :--- |
-| **Frontend** | Antarmuka responsif, interaksi, tata letak yang rapi | HTML, CSS, JavaScript |
-| **Mobile** | Aplikasi lintas platform, navigasi, pengelolaan *state* | Flutter, Dart |
-| **Backend** | Logika bisnis, REST API, struktur proyek | Java, Python |
-| **Data** | Desain tabel, relasi, *query* | MySQL |
-| **Alur kerja** | Versi kode, percabangan, dokumentasi | Git, GitHub |
+| **Frontend** | Antarmuka responsif, interaksi, tata letak yang rapi | <img src="assets/icons/html.svg" width="24" height="24" alt="HTML5"/> <img src="assets/icons/css.svg" width="24" height="24" alt="CSS3"/> <img src="assets/icons/js.svg" width="24" height="24" alt="JavaScript"/> |
+| **Mobile** | Aplikasi lintas platform, navigasi, pengelolaan *state* | <img src="assets/icons/flutter.svg" width="24" height="24" alt="Flutter"/> <img src="assets/icons/dart.svg" width="24" height="24" alt="Dart"/> |
+| **Backend** | Logika bisnis, REST API, struktur proyek | <img src="assets/icons/java.svg" width="24" height="24" alt="Java"/> <img src="assets/icons/python.svg" width="24" height="24" alt="Python"/> |
+| **Data** | Desain tabel, relasi, *query* | <img src="assets/icons/mysql.svg" width="24" height="24" alt="MySQL"/> |
+| **Alur kerja** | Versi kode, percabangan, dokumentasi | <img src="assets/icons/git.svg" width="24" height="24" alt="Git"/> <img src="assets/icons/github.svg" width="24" height="24" alt="GitHub"/> |
 
-<br/>
+<div align="center">
 
----
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="elektronika-dan-iot">Elektronika dan IoT</h2>
+<div align="center">
 
-<sub>Electronics and IoT</sub>
+<a name="elektronika-dan-iot"></a>
+<img src="assets/sections/elektronika-dan-iot.svg" alt="Elektronika dan IoT" width="100%"/>
+
+</div>
+
 
 Sisi perangkat keras: tempat kode bertemu tegangan, sinyal, dan benda nyata.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hardware-dark.svg">
-  <img alt="Dasar elektronika dan IoT: GPIO, ADC, PWM, I2C, SPI, UART, sensor, relay" src="assets/hardware-light.svg" width="100%">
-</picture>
+<img src="assets/hardware.svg" alt="Dasar elektronika dan IoT: GPIO, ADC, PWM, I2C, SPI, UART, sensor, relay, OLED, motor" width="100%"/>
 
 </div>
 
@@ -256,22 +312,26 @@ Sisi perangkat keras: tempat kode bertemu tegangan, sinyal, dan benda nyata.
 
 | Wilayah | Yang dieksplorasi | Teknologi |
 | :--- | :--- | :--- |
-| **Sinyal** | Input/output digital, pembacaan analog (ADC), PWM | Arduino, C, C++ |
-| **Sensor dan aktuator** | Membaca kondisi lingkungan, menggerakkan relay dan motor kecil | Arduino |
-| **Komunikasi** | Protokol serial antarkomponen: I2C, SPI, UART | C, C++ |
+| **Sinyal** | Input/output digital, pembacaan analog (ADC), PWM | <img src="assets/icons/arduino.svg" width="24" height="24" alt="Arduino"/> <img src="assets/icons/c.svg" width="24" height="24" alt="C"/> <img src="assets/icons/cpp.svg" width="24" height="24" alt="C++"/> |
+| **Sensor dan aktuator** | Membaca kondisi lingkungan, menggerakkan relay dan motor kecil | <img src="assets/icons/arduino.svg" width="24" height="24" alt="Arduino"/> |
+| **Komunikasi** | Protokol serial antarkomponen: I2C, SPI, UART | <img src="assets/icons/c.svg" width="24" height="24" alt="C"/> <img src="assets/icons/cpp.svg" width="24" height="24" alt="C++"/> |
 | **Rangkaian dasar** | Hukum Ohm, pembagi tegangan, catu daya | Elektronika dasar |
-| **Otomasi** | Skrip yang mengolah data dan menjalankan tugas berulang | Python |
-| **Tampilan data** | Menampilkan hasil pembacaan ke layar atau aplikasi | Flutter, JavaScript |
+| **Otomasi** | Skrip yang mengolah data dan menjalankan tugas berulang | <img src="assets/icons/python.svg" width="24" height="24" alt="Python"/> |
+| **Tampilan data** | Menampilkan hasil pembacaan ke layar atau aplikasi | <img src="assets/icons/flutter.svg" width="24" height="24" alt="Flutter"/> <img src="assets/icons/js.svg" width="24" height="24" alt="JavaScript"/> |
 
-<br/>
+<div align="center">
 
----
+<img src="assets/wave.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="komponen-elektronika">Komponen Elektronika</h2>
+<div align="center">
 
-<sub>Components I work with and study</sub>
+<a name="komponen-elektronika"></a>
+<img src="assets/sections/komponen-elektronika.svg" alt="Komponen Elektronika" width="100%"/>
+
+</div>
+
 
 | Komponen | Fungsi utama | Contoh penggunaan |
 | :--- | :--- | :--- |
@@ -289,61 +349,69 @@ Sisi perangkat keras: tempat kode bertemu tegangan, sinyal, dan benda nyata.
 | **Mikrokontroler** | Otak yang menjalankan program | ATmega328P pada Arduino Uno |
 | **Layar OLED SSD1306** | Menampilkan teks dan grafik sederhana | Tampilan data sensor melalui I2C |
 
-<br/>
+<div align="center">
 
----
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="rumus-dasar">Rumus Dasar</h2>
+<div align="center">
 
-<sub>Formulas I use often</sub>
+<a name="rumus-dasar"></a>
+<img src="assets/sections/rumus-dasar.svg" alt="Rumus Dasar" width="100%"/>
 
-**Hukum Ohm dan daya**
+</div>
+
+
+** Hukum Ohm dan daya**
 
 ```math
 V = I \times R \qquad\qquad P = V \times I
 ```
 
-**Rangkaian resistor**
+** Rangkaian resistor**
 
 ```math
 R_{seri} = R_1 + R_2 \qquad\qquad \frac{1}{R_{paralel}} = \frac{1}{R_1} + \frac{1}{R_2}
 ```
 
-**Pembagi tegangan**
+** Pembagi tegangan**
 
 ```math
 V_{out} = V_{in} \times \frac{R_2}{R_1 + R_2}
 ```
 
-**Rangkaian RC**
+** Rangkaian RC**
 
 ```math
 \tau = R \times C \qquad\qquad f_c = \frac{1}{2\pi R C}
 ```
 
-**Penguat operasional**
+** Penguat operasional**
 
 ```math
 A_{v(inverting)} = -\frac{R_f}{R_{in}} \qquad\qquad A_{v(non\text{-}inverting)} = 1 + \frac{R_f}{R_{in}}
 ```
 
-**Konversi ADC 10-bit (Arduino Uno, referensi 5 V)**
+** Konversi ADC 10-bit (Arduino Uno, referensi 5 V)**
 
 ```math
 V_{in} = \frac{ADC}{1023} \times 5\,V
 ```
 
-<br/>
+<div align="center">
 
----
+<img src="assets/wave.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="logika-digital">Logika Digital</h2>
+<div align="center">
 
-<sub>Digital logic</sub>
+<a name="logika-digital"></a>
+<img src="assets/sections/logika-digital.svg" alt="Logika Digital" width="100%"/>
+
+</div>
+
 
 | Gerbang | Ekspresi Boolean | Keluaran bernilai 1 jika |
 | :--- | :--- | :--- |
@@ -356,7 +424,7 @@ V_{in} = \frac{ADC}{1023} \times 5\,V
 | **XNOR** | `(A ⊕ B)'` | Kedua masukan sama |
 
 <details>
-<summary>Half adder: penjumlah 1-bit</summary>
+<summary><b>Half adder</b>: penjumlah 1-bit</summary>
 
 <br/>
 
@@ -373,15 +441,19 @@ A  B | Sum  Carry
 
 </details>
 
-<br/>
+<div align="center">
 
----
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="protokol-komunikasi">Protokol Komunikasi</h2>
+<div align="center">
 
-<sub>Communication protocols</sub>
+<a name="protokol-komunikasi"></a>
+<img src="assets/sections/protokol-komunikasi.svg" alt="Protokol Komunikasi" width="100%"/>
+
+</div>
+
 
 | Protokol | Jalur | Sifat | Kecepatan umum | Contoh pemakaian |
 | :--- | :--- | :--- | :--- | :--- |
@@ -389,15 +461,19 @@ A  B | Sum  Carry
 | **I2C** | SDA, SCL | Sinkron, banyak perangkat dengan alamat | 100 kHz hingga 400 kHz | Layar OLED, sensor |
 | **SPI** | MOSI, MISO, SCK, CS | Sinkron, *full-duplex* | Hingga beberapa MHz | Kartu SD, layar TFT |
 
-<br/>
+<div align="center">
 
----
+<img src="assets/wave.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="arduino-uno">Arduino Uno</h2>
+<div align="center">
 
-<sub>Ringkasan cepat papan</sub>
+<a name="arduino-uno"></a>
+<img src="assets/sections/arduino-uno.svg" alt="Arduino Uno" width="100%"/>
+
+</div>
+
 
 | Komponen | Spesifikasi |
 | :--- | :--- |
@@ -408,15 +484,19 @@ A  B | Sum  Carry
 | **I2C** | A4 (SDA) dan A5 (SCL) |
 | **SPI** | D10 (SS), D11 (MOSI), D12 (MISO), D13 (SCK) |
 
-<br/>
+<div align="center">
 
----
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="peralatan-lab">Peralatan Lab</h2>
+<div align="center">
 
-<sub>Lab equipment and measurement</sub>
+<a name="peralatan-lab"></a>
+<img src="assets/sections/peralatan-lab.svg" alt="Peralatan Lab" width="100%"/>
+
+</div>
+
 
 Alat yang umum dipakai dalam praktikum dan pengerjaan proyek elektronika.
 
@@ -431,7 +511,7 @@ Alat yang umum dipakai dalam praktikum dan pengerjaan proyek elektronika.
 | **Solder** | Menyambungkan komponen secara permanen |
 
 <details>
-<summary>Daftar periksa saat rangkaian tidak berfungsi</summary>
+<summary><b>Daftar periksa</b> saat rangkaian tidak berfungsi</summary>
 
 <br/>
 
@@ -448,18 +528,22 @@ Alat yang umum dipakai dalam praktikum dan pengerjaan proyek elektronika.
 
 </details>
 
-<br/>
+<div align="center">
 
----
+<img src="assets/wave.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="code-showcase">Code Showcase</h2>
+<div align="center">
 
-<sub>Potongan kode dari tiap bahasa</sub>
+<a name="code-showcase"></a>
+<img src="assets/sections/code-showcase.svg" alt="Code Showcase" width="100%"/>
+
+</div>
+
 
 <details>
-<summary><b>Arduino / C++</b> &nbsp;·&nbsp; kedip LED tanpa <code>delay()</code></summary>
+<summary><img src="assets/icons/arduino.svg" width="20" height="20" alt="Arduino"/> <b>Arduino / C++</b> &nbsp;·&nbsp; kedip LED tanpa <code>delay()</code></summary>
 
 <br/>
 
@@ -486,10 +570,8 @@ void loop() {
 
 </details>
 
-<br/>
-
 <details>
-<summary><b>Arduino / C++</b> &nbsp;·&nbsp; membaca sensor analog</summary>
+<summary><img src="assets/icons/arduino.svg" width="20" height="20" alt="Arduino"/> <b>Arduino / C++</b> &nbsp;·&nbsp; membaca sensor analog</summary>
 
 <br/>
 
@@ -514,10 +596,8 @@ void loop() {
 
 </details>
 
-<br/>
-
 <details>
-<summary><b>Dart / Flutter</b> &nbsp;·&nbsp; aplikasi paling minimal</summary>
+<summary><img src="assets/icons/flutter.svg" width="20" height="20" alt="Flutter"/> <b>Dart / Flutter</b> &nbsp;·&nbsp; aplikasi paling minimal</summary>
 
 <br/>
 
@@ -542,10 +622,8 @@ class NichoApp extends StatelessWidget {
 
 </details>
 
-<br/>
-
 <details>
-<summary><b>Python</b> &nbsp;·&nbsp; merapikan folder berdasarkan ekstensi file</summary>
+<summary><img src="assets/icons/python.svg" width="20" height="20" alt="Python"/> <b>Python</b> &nbsp;·&nbsp; merapikan folder berdasarkan ekstensi file</summary>
 
 <br/>
 
@@ -565,10 +643,8 @@ def organize(folder: str) -> None:
 
 </details>
 
-<br/>
-
 <details>
-<summary><b>JavaScript</b> &nbsp;·&nbsp; debounce</summary>
+<summary><img src="assets/icons/js.svg" width="20" height="20" alt="JavaScript"/> <b>JavaScript</b> &nbsp;·&nbsp; debounce</summary>
 
 <br/>
 
@@ -584,10 +660,8 @@ const debounce = (fn, wait = 200) => {
 
 </details>
 
-<br/>
-
 <details>
-<summary><b>Java</b> &nbsp;·&nbsp; rata-rata nilai</summary>
+<summary><img src="assets/icons/java.svg" width="20" height="20" alt="Java"/> <b>Java</b> &nbsp;·&nbsp; rata-rata nilai</summary>
 
 <br/>
 
@@ -604,10 +678,8 @@ public class Main {
 
 </details>
 
-<br/>
-
 <details>
-<summary><b>C</b> &nbsp;·&nbsp; operasi bit</summary>
+<summary><img src="assets/icons/c.svg" width="20" height="20" alt="C"/> <b>C</b> &nbsp;·&nbsp; operasi bit</summary>
 
 <br/>
 
@@ -625,35 +697,43 @@ int main(void) {
 
 </details>
 
-<br/>
+<div align="center">
 
----
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="pipeline-proyek">Pipeline Proyek</h2>
+<div align="center">
 
-<sub>Ide-ide yang sedang disiapkan</sub>
+<a name="pipeline-proyek"></a>
+<img src="assets/sections/pipeline-proyek.svg" alt="Pipeline Proyek" width="100%"/>
+
+</div>
+
 
 Daftar ide yang sedang dipersiapkan. Statusnya akan diperbarui seiring proyek dikerjakan.
 
 | Proyek | Ide singkat | Stack | Status |
 | :--- | :--- | :--- | :---: |
-| **Smart Room Monitor** | Membaca suhu dan kelembapan ruangan, lalu menampilkannya di layar OLED | Arduino, C++ | Rencana |
-| **Auto Plant Watering** | Penyiram tanaman otomatis berdasarkan kelembapan tanah | Arduino, C | Rencana |
-| **Device Companion App** | Aplikasi untuk memantau dan mengontrol perangkat dari ponsel | Flutter, Dart | Rencana |
-| **Desk Automation Toolkit** | Kumpulan skrip kecil untuk pekerjaan berulang | Python | Rencana |
-| **Mini Web Dashboard** | Dasbor sederhana untuk menampilkan data sensor | JavaScript, MySQL | Rencana |
+| **Smart Room Monitor** | Membaca suhu dan kelembapan ruangan, lalu menampilkannya di layar OLED | <img src="assets/icons/arduino.svg" width="24" height="24" alt="Arduino"/> <img src="assets/icons/cpp.svg" width="24" height="24" alt="C++"/> | <img src="assets/pills/rencana.svg" alt="Rencana"/> |
+| **Auto Plant Watering** | Penyiram tanaman otomatis berdasarkan kelembapan tanah | <img src="assets/icons/arduino.svg" width="24" height="24" alt="Arduino"/> <img src="assets/icons/c.svg" width="24" height="24" alt="C"/> | <img src="assets/pills/rencana.svg" alt="Rencana"/> |
+| **Device Companion App** | Aplikasi untuk memantau dan mengontrol perangkat dari ponsel | <img src="assets/icons/flutter.svg" width="24" height="24" alt="Flutter"/> <img src="assets/icons/dart.svg" width="24" height="24" alt="Dart"/> | <img src="assets/pills/rencana.svg" alt="Rencana"/> |
+| **Desk Automation Toolkit** | Kumpulan skrip kecil untuk pekerjaan berulang | <img src="assets/icons/python.svg" width="24" height="24" alt="Python"/> | <img src="assets/pills/rencana.svg" alt="Rencana"/> |
+| **Mini Web Dashboard** | Dasbor sederhana untuk menampilkan data sensor | <img src="assets/icons/js.svg" width="24" height="24" alt="JavaScript"/> <img src="assets/icons/mysql.svg" width="24" height="24" alt="MySQL"/> | <img src="assets/pills/rencana.svg" alt="Rencana"/> |
 
-<br/>
+<div align="center">
 
----
+<img src="assets/wave.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="dokumentasi-proyek">Dokumentasi Proyek</h2>
+<div align="center">
 
-<sub>Format yang aku pakai untuk setiap proyek</sub>
+<a name="dokumentasi-proyek"></a>
+<img src="assets/sections/dokumentasi-proyek.svg" alt="Dokumentasi Proyek" width="100%"/>
+
+</div>
+
 
 Setiap proyek didokumentasikan dengan struktur yang sama, supaya mudah dipahami dan diulang oleh orang lain.
 
@@ -668,36 +748,38 @@ nama-proyek/
 └── LICENSE
 ```
 
-<br/>
+<div align="center">
 
----
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="game-lab">Game Lab</h2>
+<div align="center">
 
-<sub>Game klasik untuk melatih logika</sub>
+<a name="game-lab"></a>
+<img src="assets/sections/game-lab.svg" alt="Game Lab" width="100%"/>
+
+</div>
+
 
 Game klasik cocok untuk melatih logika pemrograman: *game loop*, input, tabrakan, skor, dan pengelolaan *state*.
 
 | Game | Konsep yang dilatih | Stack | Level |
 | :--- | :--- | :---: | :---: |
-| **Pong** | Gerak objek, tabrakan bola dengan paddle, skor | Python | Pemula |
-| **Snake** | List, arah gerak, pertumbuhan, tabrakan diri | JavaScript | Pemula |
-| **Tic-Tac-Toe** | Matriks 2D, pengecekan menang, giliran pemain | Java | Pemula |
-| **Memory Match** | *State* kartu, pengacakan, pencocokan pasangan | Flutter | Pemula |
-| **Tebak Angka** | Bilangan acak, perulangan, validasi input | C++ | Pemula |
-| **Breakout** | Tabrakan banyak objek, level, *power-up* | Python | Menengah |
-| **Flappy Bird** | Gravitasi, rintangan acak, skor tertinggi | JavaScript | Menengah |
-| **Minesweeper** | Grid, rekursi (*flood fill*), hitung ranjau sekitar | Java | Menengah |
-| **2048** | Penggabungan elemen array, geser, kondisi menang dan kalah | Flutter | Menengah |
-| **Tetris** | Rotasi matriks, hapus baris, kecepatan bertahap | C++ | Lanjut |
-| **Snake di layar OLED** | *Embedded*, tombol fisik, layar SSD1306 | Arduino | Lanjut |
-
-<br/>
+| **Pong** | Gerak objek, tabrakan bola dengan paddle, skor | <img src="assets/icons/python.svg" width="24" height="24" alt="Python"/> | <img src="assets/pills/pemula.svg" alt="Pemula"/> |
+| **Snake** | List, arah gerak, pertumbuhan, tabrakan diri | <img src="assets/icons/js.svg" width="24" height="24" alt="JavaScript"/> | <img src="assets/pills/pemula.svg" alt="Pemula"/> |
+| **Tic-Tac-Toe** | Matriks 2D, pengecekan menang, giliran pemain | <img src="assets/icons/java.svg" width="24" height="24" alt="Java"/> | <img src="assets/pills/pemula.svg" alt="Pemula"/> |
+| **Memory Match** | *State* kartu, pengacakan, pencocokan pasangan | <img src="assets/icons/flutter.svg" width="24" height="24" alt="Flutter"/> | <img src="assets/pills/pemula.svg" alt="Pemula"/> |
+| **Tebak Angka** | Bilangan acak, perulangan, validasi input | <img src="assets/icons/cpp.svg" width="24" height="24" alt="C++"/> | <img src="assets/pills/pemula.svg" alt="Pemula"/> |
+| **Breakout** | Tabrakan banyak objek, level, *power-up* | <img src="assets/icons/python.svg" width="24" height="24" alt="Python"/> | <img src="assets/pills/menengah.svg" alt="Menengah"/> |
+| **Flappy Bird** | Gravitasi, rintangan acak, skor tertinggi | <img src="assets/icons/js.svg" width="24" height="24" alt="JavaScript"/> | <img src="assets/pills/menengah.svg" alt="Menengah"/> |
+| **Minesweeper** | Grid, rekursi (*flood fill*), hitung ranjau sekitar | <img src="assets/icons/java.svg" width="24" height="24" alt="Java"/> | <img src="assets/pills/menengah.svg" alt="Menengah"/> |
+| **2048** | Penggabungan elemen array, geser, kondisi menang dan kalah | <img src="assets/icons/flutter.svg" width="24" height="24" alt="Flutter"/> | <img src="assets/pills/menengah.svg" alt="Menengah"/> |
+| **Tetris** | Rotasi matriks, hapus baris, kecepatan bertahap | <img src="assets/icons/cpp.svg" width="24" height="24" alt="C++"/> | <img src="assets/pills/lanjut.svg" alt="Lanjut"/> |
+| **Snake di layar OLED** | *Embedded*, tombol fisik, layar SSD1306 | <img src="assets/icons/arduino.svg" width="24" height="24" alt="Arduino"/> | <img src="assets/pills/lanjut.svg" alt="Lanjut"/> |
 
 <details>
-<summary>Kerangka game loop (Python dan Pygame)</summary>
+<summary><img src="assets/icons/python.svg" width="20" height="20" alt="Python"/> <b>Kerangka game loop</b> (Python dan Pygame)</summary>
 
 <br/>
 
@@ -725,17 +807,22 @@ pygame.quit()
 
 </details>
 
-<br/>
+<div align="center">
 
----
+<img src="assets/wave.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="alur-kerja">Alur Kerja</h2>
+<div align="center">
 
-<sub>Workflow</sub>
+<a name="alur-kerja"></a>
+<img src="assets/sections/alur-kerja.svg" alt="Alur Kerja" width="100%"/>
+
+</div>
+
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#121214','primaryTextColor':'#F2ECDF','primaryBorderColor':'#C8A96A','lineColor':'#C8A96A','secondaryColor':'#1A1917','tertiaryColor':'#0B0B0D','fontFamily':'Georgia,serif'}}}%%
 flowchart LR
     A([Ide]) --> B[Rancang]
     B --> C[Kode]
@@ -745,12 +832,12 @@ flowchart LR
     E -- lolos --> F[Perbaiki]
     F --> G([Rilis])
     G -.-> A
+    classDef g fill:#121214,stroke:#C8A96A,color:#F2ECDF,stroke-width:1.5px
+    class A,B,C,D,E,F,G g
 ```
 
-<br/>
-
 <details>
-<summary>Struktur workspace</summary>
+<summary><b>Struktur workspace</b></summary>
 
 <br/>
 
@@ -769,15 +856,19 @@ nicho/
 
 </details>
 
-<br/>
+<div align="center">
 
----
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="peta-belajar">Peta Belajar</h2>
+<div align="center">
 
-<sub>Learning roadmap</sub>
+<a name="peta-belajar"></a>
+<img src="assets/sections/peta-belajar.svg" alt="Peta Belajar" width="100%"/>
+
+</div>
+
 
 | Tahap | Fokus | Target |
 | :--- | :--- | :--- |
@@ -786,15 +877,19 @@ nicho/
 | **3. Integrasi** | Arduino, sensor, dan komunikasi perangkat | Satu proyek yang menghubungkan aplikasi dengan perangkat IoT |
 | **4. Kontribusi** | Git, dokumentasi, dan *open source* | Kontribusi pertama ke proyek orang lain |
 
-<br/>
+<div align="center">
 
----
+<img src="assets/wave.svg" width="100%" alt=""/>
 
-<br/>
+</div>
 
-<h2 id="tanya-saya">Tanya Saya</h2>
+<div align="center">
 
-<sub>Ask me about</sub>
+<a name="tanya-saya"></a>
+<img src="assets/sections/tanya-saya.svg" alt="Tanya Saya" width="100%"/>
+
+</div>
+
 
 Topik yang selalu menyenangkan untuk dibahas. / Topics I'm always happy to talk about.
 
@@ -806,69 +901,66 @@ Topik yang selalu menyenangkan untuk dibahas. / Topics I'm always happy to talk 
 | Otomasi dengan Python | Menghubungkan perangkat ke aplikasi |
 | Dasar Git dan GitHub | C dan C++ untuk *embedded* |
 
-<br/>
-
----
-
-<br/>
-
-<h2 id="statistik-github">Statistik GitHub</h2>
-
-<sub>GitHub stats</sub>
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AboutDev-Nicho&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E&count_private=true">
-  <img alt="Statistik GitHub" height="170" src="https://github-readme-stats.vercel.app/api?username=AboutDev-Nicho&show_icons=true&theme=transparent&hide_border=true&title_color=1F2328&text_color=424A53&icon_color=6E7781&count_private=true">
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AboutDev-Nicho&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=C9D1D9">
-  <img alt="Bahasa teratas" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboutDev-Nicho&layout=compact&theme=transparent&hide_border=true&title_color=1F2328&text_color=424A53">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AboutDev-Nicho&hide_border=true&background=00000000&ring=8B949E&fire=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E">
-  <img alt="Streak kontribusi" src="https://streak-stats.demolab.com?user=AboutDev-Nicho&hide_border=true&background=00000000&ring=6E7781&fire=6E7781&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=424A53&sideLabels=424A53&dates=6E7781">
-</picture>
+<img src="assets/circuit.svg" width="100%" alt=""/>
 
 </div>
 
+<div align="center">
+
+<a name="statistik-github"></a>
+<img src="assets/sections/statistik-github.svg" alt="Statistik GitHub" width="100%"/>
+
+</div>
+
+
+<div align="center">
+
+<img height="180" alt="Statistik GitHub" src="https://github-readme-stats.vercel.app/api?username=AboutDev-Nicho&show_icons=true&bg_color=0B0B0D&title_color=C8A96A&text_color=E8E0CF&icon_color=C8A96A&border_color=3A3426&border_radius=4&count_private=true&locale=id"/>
+&nbsp;
+<img height="180" alt="Bahasa teratas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboutDev-Nicho&layout=compact&bg_color=0B0B0D&title_color=C8A96A&text_color=E8E0CF&border_color=3A3426&border_radius=4&locale=id"/>
+
 <br/>
 
----
+<img alt="Streak kontribusi" src="https://streak-stats.demolab.com?user=AboutDev-Nicho&background=0B0B0D&border=3A3426&ring=C8A96A&fire=E8D8AE&currStreakNum=F2ECDF&sideNums=C8A96A&currStreakLabel=E8D8AE&sideLabels=8E8777&dates=8E8777&border_radius=4"/>
 
-<br/>
+<br/><br/>
 
-<h2 id="kontak">Kontak</h2>
+<img alt="Grafik aktivitas kontribusi" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AboutDev-Nicho&bg_color=0B0B0D&color=C8A96A&line=C8A96A&point=F2ECDF&area=true&area_color=9C7B45&hide_border=true&title_color=C8A96A"/>
 
-<sub>Get in touch</sub>
+<br/><br/>
+
+<img alt="Ular yang memakan kontribusi GitHub" width="100%" src="https://raw.githubusercontent.com/AboutDev-Nicho/AboutDev-Nicho/output/github-snake-dark.svg"/>
+
+</div>
+
+<div align="center">
+
+<img src="assets/wave.svg" width="100%" alt=""/>
+
+</div>
+
+<div align="center">
+
+<a name="kontak"></a>
+<img src="assets/sections/kontak.svg" alt="Kontak" width="100%"/>
+
+</div>
+
 
 Punya ide, pertanyaan, atau proyek yang membutuhkan rekan kerja? Silakan hubungi aku lewat Instagram.
 
 Got an idea, a question, or a project that needs another pair of hands? Feel free to reach out on Instagram.
 
-<br/>
-
-<a href="https://instagram.com/n1kzx.z"><img src="https://cdn.simpleicons.org/instagram/8B949E" width="18" height="18" alt="Instagram"/> &nbsp;Instagram</a>
-
-<br/>
-
----
-
 <div align="center">
 
 <br/>
 
-*Langkah kecil, mimpi besar.* &nbsp;/&nbsp; *Small steps, big dreams.*
+<a href="https://instagram.com/n1kzx.z"><img src="assets/contact.svg" alt="Instagram @n1kzx.z" height="56"/></a>
 
-<br/>
+<br/><br/>
 
-<sub>Keep learning. Keep building.</sub>
-
-<br/>
+<img src="assets/footer.svg" alt="Langkah kecil, mimpi besar. Keep learning, keep building." width="100%"/>
 
 </div>
