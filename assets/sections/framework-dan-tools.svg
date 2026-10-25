@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="72" viewBox="0 0 900 72" role="img" aria-label="Framework dan Tools"><title>Framework dan Tools</title><defs><linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F2ECDF" stop-opacity="0"/><stop offset=".5" stop-color="#FFF8E4"/><stop offset="1" stop-color="#F2ECDF" stop-opacity="0"/></linearGradient>
+<linearGradient id="u" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C8A96A"/><stop offset="1" stop-color="#C8A96A" stop-opacity="0"/></linearGradient></defs>
+<rect width="900" height="72" fill="#0B0B0D"/><rect x=".5" y=".5" width="899" height="71" fill="none" stroke="#C8A96A" stroke-opacity=".35"/>
+<path d="M34 28 L40 34 L34 40 L28 34 Z" fill="#C8A96A" stroke="#C8A96A" stroke-width="1"/><path d="M34 31.8 L36.2 34 L34 36.2 L31.8 34 Z" fill="#0B0B0D" stroke="#0B0B0D" stroke-width="1"/>
+<text x="58" y="42" font-family="Georgia,'Times New Roman','Noto Serif',serif" font-size="30" fill="#F2ECDF" letter-spacing=".5">Framework dan Tools</text>
+<text x="59" y="61" font-family="'Segoe UI',system-ui,-apple-system,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12" font-style="italic" fill="#8E8777" letter-spacing=".6">Frameworks and tools</text>
+<rect x="58" y="69" width="842" height="1.5" fill="url(#u)"/></svg>
